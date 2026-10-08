@@ -1,0 +1,6 @@
+{
+  "name": "Vortex - Modern Private Web Browser",
+  "description": "A sleek, futuristic purple-themed private desktop web browser with smart search, tab management, custom quick links, browsing history, and privacy shield.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
